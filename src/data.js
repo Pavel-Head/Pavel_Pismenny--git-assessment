@@ -1,1 +1,1 @@
-console.log("Hello, world!")
+console.log("Oh, it's a data!")
