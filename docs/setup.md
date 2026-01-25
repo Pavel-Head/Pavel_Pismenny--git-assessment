@@ -15,7 +15,7 @@ This project uses a simple **JavaScript “Hello World”** example. Follow the 
 - **npm** (bundled with Node.js)
 
 > Tip: If you use `nvm`, run `nvm use` in the project root (when `.nvmrc` is present).
-##Install dependencies
+## Install dependencies
 - **npm install**
 
 **Start app:**
