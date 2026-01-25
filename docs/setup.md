@@ -1,7 +1,8 @@
 **Clone repo:**
-```bash
-+ *git clone https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment.git*
-+ *cd Pavel_Pismenny--git-assessment*
+```
+git clone https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment.git
+cd Pavel_Pismenny--git-assessment*
+```
 
 
 # Setup & Installation
@@ -18,5 +19,6 @@ This project uses a simple **JavaScript “Hello World”** example. Follow the 
 - **npm install**
 
 **Start app:**
-```bash
-+ *node src/main.js or node src/utils.js*
+```
+node src/main.js or node src/utils.js
+```
