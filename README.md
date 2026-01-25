@@ -45,7 +45,7 @@ This repository follows a GitFlow-inspired model:
 
 ## ⚙️ Setup & Installation
 
-See **./setup.md** for full instructions:
+See [**setup.md**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/edit/main/docs/setup.md) for full instructions:
 - clone the repository
 - change directory
 - install JS dependencies
@@ -56,27 +56,27 @@ See **./setup.md** for full instructions:
 ## 🤝 Contributing
 
 Contributions are welcome for learning purposes.  
-Please read **./CONTRIBUTING.md** before starting.
+Please read [**CONTRIBUTING.md**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/CONTRIBUTING.md) before starting.
 
-- Issues: use templates under **./.github/ISSUE_TEMPLATE/**  
+- Issues: use templates under [**.github/ISSUE_TEMPLATE/**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/tree/main/.github/ISSUE_TEMPLATE)  
   - Bug reports → `bug_report.md`  
   - Feature requests → `feature_request.md`
-- Pull Requests: use **./.github/pull_request_template.md**
+- Pull Requests: use [**pull_request_template.md**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 
 ---
 
 ## 🐞 Issues
 
 Open an issue using one of the templates:
-- **Bug report:** ./.github/ISSUE_TEMPLATE/bug_report.md  
-- **Feature request:** ./.github/ISSUE_TEMPLATE/feature_request.md
-- **Custom propose:** ./.github/ISSUE_TEMPLATE/custom.md
+- **Bug report:** [bug_report.md](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/.github/ISSUE_TEMPLATE/bug_report.md)  
+- **Feature request:** [feature_request.md](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/.github/ISSUE_TEMPLATE/feature_request.md)
+- **Custom propose:** [custom.md](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/.github/ISSUE_TEMPLATE/custom.md)
 
 ---
 
 ## 📜 License
 
-Licensed under the **MIT License** — see **./LICENSE**.
+Licensed under the [**MIT License**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/LICENSE)
 
 ---
 
