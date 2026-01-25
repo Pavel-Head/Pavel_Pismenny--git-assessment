@@ -45,7 +45,7 @@ This repository follows a GitFlow-inspired model:
 
 ## ⚙️ Setup & Installation
 
-See [**setup.md**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/edit/main/docs/setup.md) for full instructions:
+See [**setup.md**](https://github.com/Pavel-Head/Pavel_Pismenny--git-assessment/blob/main/docs/setup.md) for full instructions:
 - clone the repository
 - change directory
 - install JS dependencies
